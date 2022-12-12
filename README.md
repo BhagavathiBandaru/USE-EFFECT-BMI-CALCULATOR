@@ -1,4 +1,6 @@
-# Effect Hook | Part 2
+# Effect Hook | Part 2 
+
+Published Successfully!. Check at https://bandaruBMICALCY.ccbp.tech
 
 - Persisting Application data
   - Local Storage
